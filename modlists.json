@@ -1,0 +1,34 @@
+[{
+	"$type": "ModListMetadata, Wabbajack.Lib",
+	"title": "TES V : Skyrim - Secunda Edition",
+	"description": "TES V: Skyrim - Enhanced Edition is a personal performance-friendly medium-sized Modlist that aims to offer an enhancement of the original graphics and gameplay of Skyrim. Here is the core motivation of this modlist : what we believed to be Skyrim back in 2011, our memories embellished by the nostalgia of this game, are embodied in this Modlist. ",
+	"author": "Heilinger Krest",
+	"maintainers": [
+		"github/HeilingerKrest"
+	],
+	"game": "skyrimspecialedition",
+	"tags": [
+		"Vanilla Plus"
+	],
+	"nsfw": false,
+	"image_contains_title": false,
+	"force_down": false,
+	"links": {
+		"$type": "Links, Wabbajack.Lib",
+		"image": "https://i.postimg.cc/pVCGt6gB/Couverture.png",
+		"readme": "https://github.com/HeilingerKrest/HeilingerKrest/blob/main/README.md",
+		"download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+		"machineURL": "machineURL",
+		"discordURL": "<your discord link here>"
+	},
+	"download_metadata": {
+		"$type": "DownloadMetadata, Wabbajack.Lib",
+		"Hash": "e1+K7eJbDJw=",
+		"Size": 0,
+		"NumberOfArchives": 14,
+		"SizeOfArchives": 135206078,
+		"NumberOfInstalledFiles": 1311,
+		"SizeOfInstalledFiles": 336453775
+	},
+	"version": "1.0"
+}]
